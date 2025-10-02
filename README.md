@@ -1,1 +1,5 @@
 # RTOS-NucleoH7
+
+## Overview
+Target: NUCLEO-H753ZI
+MCU: STM32H753ZIT6
